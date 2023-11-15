@@ -1,0 +1,4 @@
+2022/12/15!Transfer Keluar!-25000!utang
+2022/12/15!Tarik Tunai!-10000!Tarik Tunai
+2022/12/15!Beli Pulsa!-20000!Beli Pulsa
+2022/12/15!Transfer Keluar!10000!

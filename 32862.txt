@@ -1,0 +1,14 @@
+2022/12/10!Transfer Masuk!20000!Jajan
+2022/12/11!Transfer Masuk!12000!Utang
+2022/12/12!Transfer Keluar!-32000!Kas
+2022/12/15!Tarik Tunai!-20000!Tarik Tunai
+2022/12/15!Beli Pulsa!-15000!Beli Pulsa
+2022/12/15!Transfer Masuk!15000!Makan
+2022/12/15!Transfer Masuk!32000!Makan
+2022/12/15!Tarik Tunai!-14000!Tarik Tunai
+2022/12/15!Beli Pulsa!-20000!Beli Pulsa
+2022/12/30!Tarik Tunai!-1000!Tarik Tunai
+2022/12/15!Beli Pulsa!-20000!Beli Pulsa
+2022/12/15!Transfer Keluar!-10000!Makan
+2022/12/15!Tarik Tunai!-20000!Tarik Tunai
+2022/12/15!Beli Pulsa!-20000!Beli Pulsa
